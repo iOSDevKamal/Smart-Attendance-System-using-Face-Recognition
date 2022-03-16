@@ -1,0 +1,50 @@
+PODS:
+  - Alamofire (5.4.3)
+  - AWSCognito (2.19.1):
+    - AWSCore (= 2.19.1)
+  - AWSCore (2.19.1)
+  - AWSS3 (2.19.1):
+    - AWSCore (= 2.19.1)
+  - IQKeyboardManager (6.5.6)
+  - SkyFloatingLabelTextField (4.0.0)
+  - SVProgressHUD (2.2.5)
+  - Toast-Swift (5.0.1)
+  - Warhol (0.2.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - AWSCognito
+  - AWSCore
+  - AWSS3
+  - IQKeyboardManager
+  - SkyFloatingLabelTextField
+  - SVProgressHUD
+  - Toast-Swift
+  - Warhol
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - AWSCognito
+    - AWSCore
+    - AWSS3
+    - IQKeyboardManager
+    - SkyFloatingLabelTextField
+    - SVProgressHUD
+    - Toast-Swift
+    - Warhol
+
+SPEC CHECKSUMS:
+  Alamofire: e447a2774a40c996748296fa2c55112fdbbc42f9
+  AWSCognito: f50de600804941d083af37a7568905f31a774727
+  AWSCore: 55c154ae27efc5c98bdc30a0eeea5a35d10a2ab5
+  AWSS3: 2272253b098d07803af8dd20ce6ce7302bcffb47
+  IQKeyboardManager: 2a6e97afdafc7becf0cb17a9a8d795e3a980717f
+  SkyFloatingLabelTextField: 79ddc40e4ad59707fedbb48d605417aee48bb78a
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+  Toast-Swift: 9b6a70f28b3bf0b96c40d46c0c4b9d6639846711
+  Warhol: 232f93506ea37d3c90ce0dd6403806628567a6ee
+
+PODFILE CHECKSUM: a0fd2db2c22cacf58ac93a2e08a5b3b0265126af
+
+COCOAPODS: 1.10.1

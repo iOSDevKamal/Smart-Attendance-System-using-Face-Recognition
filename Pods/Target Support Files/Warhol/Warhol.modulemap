@@ -1,0 +1,6 @@
+framework module Warhol {
+  umbrella header "Warhol-umbrella.h"
+
+  export *
+  module * { export * }
+}
